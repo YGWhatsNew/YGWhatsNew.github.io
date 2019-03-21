@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Announcements on Modern survey data analysis</title>
+    <link>//crunch.io/dev/features/</link>
+    <description>Recent content in Feature Announcements on Modern survey data analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>2019-03-08T12:23:46+00:00</lastBuildDate>
+    
+        <atom:link href="//crunch.io/dev/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Improved Organization of Datasets</title>
+      <link>//crunch.io/dev/features/dataset-folders/</link>
+      <pubDate>2019-03-06T19:49:40+00:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/dataset-folders/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>We&#39;ve moved to a folder-based, nested organization for datasets in order to make it easier to navigate and manage permissions on datasets.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>PowerPoint Deck Exports</title>
+      <link>//crunch.io/dev/features/pptx-exports/</link>
+      <pubDate>2018-09-25T10:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/pptx-exports/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>Decks can now be downloaded directly to PowerPoint. Click here to learn more.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Subtotals for Categorical Data</title>
+      <link>//crunch.io/dev/features/subtotals/</link>
+      <pubDate>2018-01-14T13:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/subtotals/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>Enhance your analyses by adding subtotals to your tables. See summary statistics of interest at a glance.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Introducing Dashboards</title>
+      <link>//crunch.io/dev/features/dataset-dashboard/</link>
+      <pubDate>2017-10-17T23:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/dataset-dashboard/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>Dashboards provide a clear top-level view of a dataset. Dataset owners can easily customize the contents of the dashboard in order to provide a concise, beautiful summary of key findings.</description>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>//crunch.io/dev/features/sentiment-analysis/</link>
+      <pubDate>2017-08-21T23:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/sentiment-analysis/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>true</noProfiles>
+      <description>At the press of a button, you can classify text data with natural language processing.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Refine your searches on Crunch</title>
+      <link>//crunch.io/dev/features/search-filters/</link>
+      <pubDate>2017-07-10T12:59:58-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/search-filters/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>With these new search filters, you can refine your queries and find the datasets or variables you are looking for faster.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>📊 New Header, New Font, New Graphs 📈 </title>
+      <link>//crunch.io/dev/features/visual-updates/</link>
+      <pubDate>2017-07-05T11:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/visual-updates/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>Our new visual updates make Crunch easier to use and let your data speak more clearly than ever</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Deliver New Data When You’re Ready</title>
+      <link>//crunch.io/dev/features/draft-and-publish/</link>
+      <pubDate>2017-06-12T23:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/draft-and-publish/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>true</noProfiles>
+      <description>Our new draft-and-publish feature allows you to prepare and review changes to data before pushing them to everyone.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Tab Book Improvements</title>
+      <link>//crunch.io/dev/features/tab-book-improvements/</link>
+      <pubDate>2017-05-01T23:20:47-04:00</pubDate>
+      
+      <guid>//crunch.io/dev/features/tab-book-improvements/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <description>By popular demand, Excel tab books just gained a bunch of new capabilities.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
