@@ -59,7 +59,7 @@ if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
             install_hugo
             build_site
 
-            git clone -b master https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG.git OUTPUT
+            git clone -b travis_build https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG.git OUTPUT
             cd OUTPUT
             git rm -rf .
             cp -r ../public/. .
