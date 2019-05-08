@@ -1,0 +1,10 @@
+baseURL = "//YGWhatsNew.github.io/"
+
+languageCode = "en-us"
+title = "Modern survey data analysis"
+MetaDataFormat = "toml"
+
+[params]
+description = "Plan & Track"
+arrow = "arrow.png"
+images = ["//crunch.io/img/logo-1200x630.png"]
