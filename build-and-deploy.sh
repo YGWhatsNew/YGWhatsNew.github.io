@@ -67,4 +67,5 @@ if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
             git commit -m "Updating built site (build ${TRAVIS_BUILD_NUMBER})" || true
             git push origin travis_build || true
         fi
+    fi
 fi
