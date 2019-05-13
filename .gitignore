@@ -1,7 +1,0 @@
-public/
-static/css/
-*.orig
-.DS_Store
-node_modules/
-yarn.lock
-package-lock.json

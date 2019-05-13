@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/complete-cases/</loc>
+    <lastmod>2019-04-02T23:20:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/categories/</loc>
+    <lastmod>2019-04-02T23:20:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/tags/</loc>
+    <lastmod>2019-04-02T23:20:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/categories/feature/</loc>
+    <lastmod>2019-04-02T23:20:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/tags/filters/</loc>
+    <lastmod>2019-04-02T23:20:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/tags/population-size/</loc>
+    <lastmod>2019-04-02T23:20:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//YGWhatsNew.github.io/</loc>
+    <lastmod>2017-07-18T14:08:35+02:00</lastmod>
+  </url>
+  
+</urlset>
