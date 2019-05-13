@@ -39,7 +39,7 @@ if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
         # Production
 
         # Add publishdate
-        find ./content/dev -name "*.md" | xargs -n 1 -I{} bash -c "publish {}"
+        find ./content -name "*.md" | xargs -n 1 -I{} bash -c "publish {}"
         git add .
         if git commit -m "Setting publication date: ${NOW}"; then
             # If there are new posts, commit and push them, then exit
