@@ -8,7 +8,8 @@ categories = ["feature"]
 images = ["https://crunch.io/img/logo-1200x630.png"]
 +++
 
-We are pleased to announce a new feature to the audience building area (filter builder) of the Profiles application: **Complete Cases**.
+We are pleased to announce a new feature to the audience building area (filter builder) of the Profiles application: 
+**Complete Cases**.
 
 This is a check box that will be automatically selected to specify that your audience should be made up of respondents who have answered every single component of your definition. This would not make a difference for any audiences where you are linking variables with ‘AND’, but it would have an impact for where you are linking variables with ‘OR’.
 
