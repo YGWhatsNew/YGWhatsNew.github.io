@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="keywords" content="Crunch, Crunch io, data, datasets, survey, analytics, analysis, technology, insights, research, software">
+    <base href="{{ .Site.BaseURL }}">
+    <title>Crunch | {{ .Title }}</title>
+
+    <link rel="icon" href="img/favicon.ico">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <!-- {{ template "_internal/google_analytics.html" . }} -->
+    {{ partial "og.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    <!-- Local CSS -->
+    <link rel="stylesheet" href="css/main.css">
+
+  </head>
+
+  <body>

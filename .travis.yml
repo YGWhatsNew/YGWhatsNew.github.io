@@ -1,0 +1,11 @@
+os: osx
+branches:
+  only:
+  - src
+language: go
+go:
+- stable
+script: "./build-and-deploy.sh"
+env:
+  global:
+    secure: MWwaU7BPQ7BDUvCJCsLgDsocBO2C9i/iDJ1/Cznlc85h0JWQ6DVVjfOZcqKLRi7GTBG9Xr14tUsBHOOzugSMj7k8to+s40UVW4NunXC0ErskqIHWflrnMiXjJSKxo4PMJGaTiY8W5XJ32oLaXLjfqMUMvPPz4rD+gb2t821EYNP0dIdh31lMkqwJYyTJPYWmxjznvIssfMvoQii8un5syLwJHwFRJ24VrtL8EBjAFyhcjcA5wCTxGTQQNgzilwp4XS8VXQtwl2qgd8oAnj5JmJ+sWiQyJ3aQhXoyi45nTMxNbKcgue1cW8W7GaH35h2BKURyJAjDaPBVcTYSX8EE6KeGdGg4dcS8Xkc9OM59XsB0d6Hd9IO38l1/9gWujFELtsZaC+zMtROg4RCqOES5hQ5KZ42hSld6IAr+VumnEOmu9OpimlDYSTcn5uSPeZaUg3/TmjyDU67ba3IiRRu5iX8/aFVK2hOkkAgCujTzBp8CKF80cVN2Z1WbUJDzhZpRoZCYp2fzm5715JkYTBgxD6dcPTkab2JczeoWLKC5I99lizv81U1ef7qPQHTK3mGBNBSH/yGF6X9ktHg1b6A/CADy7+MhsSmwXwcau8BGCTupLp7uPOOGg6ZPn/b12dh+JlAVrs/PyB26VxK22GlyiKhVkzJQEilcBe1vfK85/B4=
