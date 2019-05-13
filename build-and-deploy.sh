@@ -22,7 +22,7 @@ install_hugo () {
     cd hugo
     go install
 
-    cd ${GOPATH}/src/github.com/Crunch-io/profiles-feed
+    cd ${GOPATH}/src/github.com/YGWhatsNew/YGWhatsNew.github.io
 }
 
 build_site () {
@@ -32,8 +32,8 @@ build_site () {
 }
 
 if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
-    git config --global user.email "systems+crunchbot@crunch.io"
-    git config --global user.name "Crunchbot"
+    git config --global user.email "jehan.shams@yougov.com"
+    git config --global user.name "Jehan"
 
     if [ "${TRAVIS_BRANCH}" = "src" ]; then
         # Production
