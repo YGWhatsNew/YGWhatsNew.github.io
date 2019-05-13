@@ -50,7 +50,7 @@ if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
             # but that's cheap enough
             git clone -b src https://${GH_TOKEN}@github.com/$TRAVIS_REPO_SLUG.git PUBLISHDATE
             cd PUBLISHDATE
-            find ./content/dev -name "*.md" | xargs -n 1 -I{} bash -c "publish {}"
+            find ./content -name "*.md" | xargs -n 1 -I{} bash -c "publish {}"
             git add .
             git commit -m "Setting publication date: ${NOW}"
             git push
