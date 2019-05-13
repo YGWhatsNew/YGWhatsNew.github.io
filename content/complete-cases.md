@@ -1,5 +1,6 @@
 +++
 date = "2019-04-02T23:20:47-04:00"
+publishdate = "2019-05-13T17:36:33+0000"
 title = "Complete Cases Release"
 description = "Complete Cases Checkbox for Custom Audiences"
 weight = 20
