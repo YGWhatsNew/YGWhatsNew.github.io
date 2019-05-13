@@ -21,7 +21,7 @@
         color: $color-off-black;
 
         span {
-            font-style: italic;
+            font-weight: light;
         }
     }
 }
@@ -104,11 +104,11 @@
         }
 
         h3 {
-            font-family: 'Libre Baskerville', serif;
+            font-family: 'Raleway', serif;
             font-size: 1.2em;
 
             span {
-                font-style: italic;
+                font-weight: light;
             }
         }
 
@@ -134,9 +134,9 @@
             color: $color-green;
 
             span {
-                font-family: 'Libre Baskerville', serif;
-                font-style: italic;
-                color: $color-off-black;
+                font-family: 'Raleway', serif;
+                font-weight: bold;
+                color: $font-color-off-black;
                 line-height: 1.3em;
             }
         }
@@ -166,12 +166,10 @@
     }
 
     .footer-content {
-        color: $color-white;
+        color: $color-purple;
 
         .jumbotron {
-            height: 300px;
-            background-position: 0 -100px;
-            @include vp-background-size(cover);
+            height: 200px;
             margin-bottom: 0;
 
             .btn-link {
@@ -265,6 +263,7 @@
 
             a {
                 color: $color-white;
+                font-weight: bold;
             }
 
             .lead {
@@ -274,9 +273,10 @@
         }
 
         h2 {
-            font-family: 'ProximaNova', sans-serif;
+            font-family: 'Raleway', sans-serif;
             font-weight: 700;
             font-size: 2em;
+            color: $color-purple;
         }
 
     }
@@ -312,8 +312,8 @@
         margin-top: 200px;
 
         span {
-            font-family: 'Libre Baskerville', serif;
-            font-style: italic;
+            font-family: 'Raleway', serif;
+            font-weight: light;
         }
 
         a {
@@ -321,7 +321,7 @@
         }
 
         h1 {
-            font-family: ProximaNova, sans-serif;
+            font-family: 'Raleway', sans-serif;
             line-height: 1.5em;
         }
 
@@ -352,7 +352,7 @@
 
     .jumbotron {
         background-color: $color-blue;
-        background-image: linear-gradient( $color-blue, $--darker-primary-color);
+        background-image: $color-off-black;
         margin-bottom: 0;
 
         h1 {
@@ -372,8 +372,8 @@
 
         a {
             color: $color-white;
-            font-family: 'Libre Baskerville', serif;
-            font-style: italic;
+            font-family: 'Raleway', serif;
+            font-weight: light;
         }
     }
 
@@ -440,10 +440,10 @@
 
         @include media-breakpoint-down(sm) {
             h2 {
-                font-family: 'Libre Baskerville', serif;
+                font-family: 'Raleway', serif;
 
                 span {
-                    font-style: italic;
+                    font-weight: light;
                 }
             }
 
@@ -471,10 +471,10 @@
 
         @include media-breakpoint-down(sm) {
             h2 {
-                font-family: 'Libre Baskerville', serif;
+                font-family: 'Raleway', serif;
 
                 span {
-                    font-style: italic;
+                    font-weight: light;
                 }
             }
 
@@ -556,10 +556,10 @@
 
         @include media-breakpoint-down(sm) {
             h2 {
-                font-family: 'Libre Baskerville', serif;
+                font-family: 'Raleway', serif;
 
                 span {
-                    font-style: italic;
+                    font-weight: light;
                 }
             }
 
@@ -576,10 +576,10 @@
 
         @include media-breakpoint-down(sm) {
             h2 {
-                font-family: 'Libre Baskerville', serif;
+                font-family: 'Raleway', serif;
 
                 span {
-                    font-style: italic;
+                    font-weight: light;
                 }
             }
 
@@ -607,14 +607,14 @@
     }
 
     .content-four .jumbotron {
-        color: $color-off-black;
+        color: $font-color-off-black;
         background-color: $color-white;
 
         p {
             margin-top: 100px;
 
             a {
-                font-family: 'ProximaNova', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 color: $color-blue;
             }
         }
@@ -646,15 +646,15 @@
 // Marketing page with video
 .marketing-page {
     background-color: $color-blue;
-    background-image: linear-gradient( $color-blue, $--darker-primary-color);
+    background-image: linear-gradient( $color-blue, $color-off-black);
 
     button {
         margin-bottom: 20px;
     }
 
     a {
-        font-family: 'Libre Baskerville', serif;
+        font-family: 'Raleway', serif;
         color: $color-white;
-        font-style: italic;
+        font-weight: light;
     }
 }

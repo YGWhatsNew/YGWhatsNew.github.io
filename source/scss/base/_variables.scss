@@ -1,9 +1,13 @@
 // Crunch Colors
-$color-purple:                     #722580;
-$color-blue:                       #0064a4;
-$color-green:                      #107f65;
+$color-purple:                     #dc4c81;
+$color-blue:                       #9078d7;
+$color-green:                      #ae61c4;
 $color-white:                      #ffffff;
-$color-off-black:                  #1D1D26;
+$color-off-black:                  #090050;
+$color-orchid-darker:              #ac1c51;
+$accent-first:                     #ff6352;
+$accent-second:                    #00b7b4;
+$accent-third:                     #aea8bb;
 
 // 7 shades of grey
 $color-grey-lighest:               #f9f9f9;
@@ -28,9 +32,9 @@ $--primary-color: $color-blue;
 $--secondary-color: $color-green;
 $--message-color: $color-purple;
 
-$--darker-primary-color: darken($color-blue, $darker-color-percent);
-$--light-primary-color: desaturate(lighten($color-blue, 30%), 50%);
-$--lighter-primary-color: desaturate(lighten($color-blue, 80%), 50%);
+$--darker-primary-color: #432b8a;
+$--light-primary-color: #ad97ed;
+$--lighter-primary-color: #d6c8ff;
 
 $--darker-secondary-color: darken($color-green, $darker-color-percent);
 $--light-secondary-color: desaturate(lighten($color-green, 30%), 50%);

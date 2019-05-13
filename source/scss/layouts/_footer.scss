@@ -42,6 +42,18 @@
     }
 }
 
+.bg-orchid {
+    background-color: $color-purple;
+
+    .nav-link {
+        color: $color-white;
+
+        &:hover {
+            color: $color-grey-darker;
+        }
+    }
+}
+
 // Modal
 .modal {
     .modal-body {

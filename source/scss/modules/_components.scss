@@ -14,8 +14,8 @@
         }
 
         h2 {
-            font-family: 'Libre Baskerville', serif;
-            font-style: italic;
+            font-family: 'Raleway', serif;
+            font-weight: light;
         }
 
         @include media-breakpoint-down(xs) {
@@ -79,7 +79,7 @@
             .carousel {
                 max-width: 800px;
                 text-align: center;
-                font-family: 'Libre Baskerville', serif;
+                font-family: 'Raleway', serif;
                 font-size: 1.5em;
                 margin: auto;
 
@@ -212,12 +212,13 @@
 
     .posts {
         .post-title {
-            font-family: 'ProximaNova', sans-serif;
-            font-weight: 400;
+            font-family: 'Raleway', sans-serif;
+            font-weight: bold;
             color: $color-blue;
         }
         span {
             font-size: .8em;
+            color: $accent-first
         }
         p {
             margin-top: 20px;
@@ -225,10 +226,9 @@
         a {
             position: absolute;
             bottom: 30px;
-            color: $color-off-black;
 
             &:hover {
-                color: $color-blue;
+                color: $accent-second;
             }
         }
     }
@@ -259,7 +259,7 @@ figure {
         margin-top: -15px;
         font-weight: 500;
         font-size: 1em;
-        font-style: italic;
+        font-weight: light;
     }
 }
 

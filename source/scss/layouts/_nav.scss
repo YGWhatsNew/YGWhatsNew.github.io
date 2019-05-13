@@ -68,7 +68,7 @@
 	padding: 0;
 
     li {
-        background-color: lighten($color-off-black, 60%);
+        background-color: $color-off-black;
     	border-radius: 15px;
     	cursor: pointer;
         width: 12px;
