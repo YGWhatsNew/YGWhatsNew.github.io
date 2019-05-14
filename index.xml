@@ -5,9 +5,23 @@
     <description>Recent content in Feature Announcements on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2019-05-13T20:33:58+00:00</lastBuildDate>
+    <lastBuildDate>2019-05-14T13:57:19+00:00</lastBuildDate>
     
         <atom:link href="//YGWhatsNew.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Low Base Size Warning</title>
+      <link>//YGWhatsNew.github.io/basesize/</link>
+      <pubDate>2019-05-13T17:36:33+00:00</pubDate>
+      
+      <guid>//YGWhatsNew.github.io/basesize/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>true</pinned>
+      <description>When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text</description>
+    </item>
     
     
     
