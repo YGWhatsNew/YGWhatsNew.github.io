@@ -7,7 +7,6 @@ weight = 20
 tags = []
 categories = ["feature"]
 images = ["https://crunch.io/img/logo-1200x630.png"]
-pinned = true
 +++
 
 From today, analysis using derived values (%, Index, Z-score) will appear gray instead of black if the sample falls below 100. Data-bars are included too, they will appear gray instead of the usual red, green or light blue when the sample falls below 100.  
