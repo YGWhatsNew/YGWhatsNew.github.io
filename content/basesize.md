@@ -1,13 +1,12 @@
 +++
-date = "2019-04-02T23:20:47-04:00"
-publishdate = "2019-06-13T17:00:00+0000"
+date = "2019-06-13T23:20:47-04:00"
 title = "Low Base Size Warning Release"
 description = "When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text. Z-score will remain in color."
 weight = 20
 tags = []
 categories = ["feature"]
 images = ["https://crunch.io/img/logo-1200x630.png"]
-draft = true
+draft = false
 +++
 
 From today, analysis using derived values (%, Index) in Profiles will appear grey instead of black if the sample falls below 100. Data-bars are included too, they will appear grey instead of the usual light blue when the sample falls below 100. 
