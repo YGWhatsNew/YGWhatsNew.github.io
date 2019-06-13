@@ -22,3 +22,11 @@ The color change is to ensure you are aware of any low base sizes which could im
 
 *Browse View*
 {{< figure src="src/Sw2.jpg" class="img-fluid" width="300px">}}
+
+The Low Base Size Warning, where derived values (%, Index) appear in gray when the sample falls below 100, also now extends into exports but only from the Analyze and Multi-tables views (the Profiles view is not included).   
+Below is a partial screenshot illustrating what you will see when you are working in an Excel export.
+
+{{< figure src="src/Sw3.jpg" class="img-fluid" width="300px">}}
+
+If you have any questions please consult your client services representative.
+ 
