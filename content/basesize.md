@@ -2,7 +2,7 @@
 date = "2019-04-02T23:20:47-04:00"
 publishdate = "2019-05-13T17:36:33+0000"
 title = "Low Base Size Warning Release"
-description = "When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text. Z-score will remain in color"
+description = "When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text. Z-score will remain in color."
 weight = 20
 tags = []
 categories = ["feature"]
@@ -17,16 +17,27 @@ The Z-score column will remain in color showing any statistically significant di
 
 The color change is to ensure you are aware of any low base sizes which could impact any insights taken from the data.
 
-*Profiles View*
-{{< figure src="src/Sw1.jpg" class="img-fluid" width="300px">}}
+## Profiles View
+{{< figure src="images/SW1.jpg" class="img-fluid">}}
+<figcaption>
 
-*Browse View*
-{{< figure src="src/Sw2.jpg" class="img-fluid" width="300px">}}
+1.    The target group bars in the example now appear in gray because the base size is only N = 44
+2.    The comparison group bars continue to appear in blue because they have N > 100
+3.    Z-scores >2 and <2 continue to appear in color as these represent statistically significant differences
+4.    Diff and Index columns are in gray due to the target group base being < 100
+
+</figcaption>
+
+## Browse View
+{{< figure src="images/SW2.jpg" class="img-fluid">}}
+
 
 The Low Base Size Warning, where derived values (%, Index) appear in gray when the sample falls below 100, also now extends into exports but only from the Analyze and Multi-tables views (the Profiles view is not included).   
+
 Below is a partial screenshot illustrating what you will see when you are working in an Excel export.
 
-{{< figure src="src/Sw3.jpg" class="img-fluid" width="300px">}}
+{{< figure src="images/SW3.png" class="img-fluid">}}
+
 
 If you have any questions please consult your client services representative.
  
