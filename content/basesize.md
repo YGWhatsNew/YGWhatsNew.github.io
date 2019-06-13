@@ -10,7 +10,7 @@ images = ["https://crunch.io/img/logo-1200x630.png"]
 draft = true
 +++
 
-From today, analysis using derived values (%, Index) in Profiles will appear gray instead of black if the sample falls below 100. Data-bars are included too, they will appear gray instead of the usual light blue when the sample falls below 100. 
+From today, analysis using derived values (%, Index) in Profiles will appear grey instead of black if the sample falls below 100. Data-bars are included too, they will appear grey instead of the usual light blue when the sample falls below 100. 
 
 The Z-score column will remain in color showing any statistically significant differences.
 
@@ -20,10 +20,10 @@ The color change is to ensure you are aware of any low base sizes which could im
 {{< figure src="images/SW1.jpg" class="img-fluid">}}
 <figcaption>
 
-1.    The target group bars in the example now appear in gray because the base size is only N = 44
+1.    The target group bars in the example now appear in grey because the base size is only N = 44
 2.    The comparison group bars continue to appear in blue because they have N > 100
 3.    Z-scores >2 and <2 continue to appear in color as these represent statistically significant differences
-4.    Diff and Index columns are in gray due to the target group base being < 100
+4.    Diff and Index columns are in grey due to the target group base being < 100
 
 </figcaption>
 
@@ -31,7 +31,7 @@ The color change is to ensure you are aware of any low base sizes which could im
 {{< figure src="images/SW2.jpg" class="img-fluid">}}
 
 
-The Low Base Size Warning, where derived values (%, Index) appear in gray when the sample falls below 100, also now extends into exports but only from the Analyze and Multi-tables views (the Profiles view is not included).   
+The Low Base Size Warning, where derived values (%, Index) appear in grey when the sample falls below 100, also now extends into exports but only from the Analyze and Multi-tables views (the Profiles view is not included).   
 
 Below is a partial screenshot illustrating what you will see when you are working in an Excel export.
 
