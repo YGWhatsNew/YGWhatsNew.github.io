@@ -17,25 +17,18 @@ The Z-score column will remain in color showing any statistically significant di
 The color change is to ensure you are aware of any low base sizes which could impact any insights taken from the data.
 
 ## Profiles View
-{{< figure src="images/SW1.jpg" class="img-fluid">}}
-<figcaption>
+{{< figure src="images/Image1_ProfilesView.png" class="img-fluid">}}
 
-1.    The target group bars in the example now appear in grey because the base size is only N = 44
-2.    The comparison group bars continue to appear in blue because they have N > 100
-3.    Z-scores >2 and <2 continue to appear in color as these represent statistically significant differences
-4.    Diff and Index columns are in grey due to the target group base being < 100
-
-</figcaption>
 
 ## Browse View
-{{< figure src="images/SW2.jpg" class="img-fluid">}}
+{{< figure src="images/Image2_BrowseView.png" class="img-fluid">}}
 
 
 The Low Base Size Warning, where derived values (%, Index) appear in grey when the sample falls below 100, also now extends into exports but only from the Analyze and Multi-tables views (the Profiles view is not included).   
 
 Below is a partial screenshot illustrating what you will see when you are working in an Excel export.
 
-{{< figure src="images/SW3.png" class="img-fluid">}}
+{{< figure src="images/Image3_Excel_export.png" class="img-fluid">}}
 
 
 If you have any questions please consult your client services representative.
