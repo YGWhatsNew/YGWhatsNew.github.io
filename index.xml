@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    
+      <item>
+      <title>Complete Cases Release</title>
+      <link>https://profiles-help.yougov.com/basesize.md</link>
+      <pubDate>2019-06-13T12:49:40+00:00</pubDate>
+      
+      <guid>https://profiles-help.yougov.com/basesize.d</guid>
+      <description>When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text. Z-score will remain in color. </description>
+    </item>
 
     <item>
       <title>Complete Cases Release</title>
