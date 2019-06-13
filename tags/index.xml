@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Modern survey data analysis</title>
-    <link>//YGWhatsNew.github.io/tags/</link>
+    <link>//profiles-help.yougov.com/tags/</link>
     <description>Recent content in Tags on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2019-06-13T18:36:52+00:00</lastBuildDate>
+    <lastBuildDate>2019-06-13T18:45:33+00:00</lastBuildDate>
     
-        <atom:link href="//YGWhatsNew.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//profiles-help.yougov.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>population size</title>
-      <link>//YGWhatsNew.github.io/tags/population-size/</link>
+      <link>//profiles-help.yougov.com/tags/population-size/</link>
       <pubDate>0001-01-01T00:00:00+00:00</pubDate>
       
-      <guid>//YGWhatsNew.github.io/tags/population-size/</guid>
+      <guid>//profiles-help.yougov.com/tags/population-size/</guid>
       <labsOnly>false</labsOnly>
       <noProfiles>false</noProfiles>
       <pinned>false</pinned>
@@ -27,10 +27,10 @@
     
     <item>
       <title>filters</title>
-      <link>//YGWhatsNew.github.io/tags/filters/</link>
+      <link>//profiles-help.yougov.com/tags/filters/</link>
       <pubDate>0001-01-01T00:00:00+00:00</pubDate>
       
-      <guid>//YGWhatsNew.github.io/tags/filters/</guid>
+      <guid>//profiles-help.yougov.com/tags/filters/</guid>
       <labsOnly>false</labsOnly>
       <noProfiles>false</noProfiles>
       <pinned>false</pinned>
