@@ -7,7 +7,6 @@ weight = 20
 tags = []
 categories = ["feature"]
 images = ["https://crunch.io/img/logo-1200x630.png"]
-pinned = true
 draft = true
 +++
 
