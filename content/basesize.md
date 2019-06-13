@@ -13,7 +13,7 @@ draft = true
 
 From today, analysis using derived values (%, Index) in Profiles will appear gray instead of black if the sample falls below 100. Data-bars are included too, they will appear gray instead of the usual light blue when the sample falls below 100. 
 
-The Z-score column will remain in color showing any statistically significant differences 
+The Z-score column will remain in color showing any statistically significant differences.
 
 The color change is to ensure you are aware of any low base sizes which could impact any insights taken from the data.
 
