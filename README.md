@@ -14,11 +14,9 @@ If you don't have Hugo, [install it](https://gohugo.io/getting-started/quick-sta
 
 ## Building, deploying, and git flow
 
-The `master` branch of this repository is where the current site lives. The `src` branch is our "production" source code branch. Any changes pushed here will be built on Travis-CI and automatically published to https://ygwhatsnew.github.io/.
+The `master` branch of this repository is where the current site lives. The `src` branch is our "production" source code branch. Any changes pushed here will be built on Travis-CI and automatically published to https://ygwhatsnew.github.io/, also known as profiles-help.yougov.com.
 
 To make changes or add new content, make a branch off of the `src` branch.
-
-To preview a published version of your branch, merge it to the `dev` branch and push. `dev` builds and is automatically published to https://crunch-io.github.io/crunchy/newsite/.
 
 ## Adding content to the current site
 
@@ -26,7 +24,7 @@ Posts are .md files inside the `/content` directory. There are templates and oth
 
 ## Release announcements
 
-The Crunch web app uses the [RSS feed](https://crunch.io/dev/features/index.xml) of the [features blog](https://crunch.io/dev/features/) to populate the "What's new" notification panel. In addition, syndicated products like Profiles are integrated to the feed by two means. First, items are fetched from a configured url (ideally the index.xml on this built site) and intermixed by date with those in the Crunch feed. Second, the channel link in the index.xml here is used to override the “see more” link at the bottom of the list of new features in the app. If you configure such an override link, it is recommended to include a link to the Crunch feature blog on your own “see more” landing page.
+The Crunch web app uses the [RSS feed](https://profiles-help.yougov.com/index.xml) of the this site to populate the “What's new” notification panel. First, items are fetched from a configured url (ideally the index.xml on this built site) and intermixed by date with those in the Crunch feed. Second, the channel link in the index.xml here is used to override the “see more” link at the bottom of the list of new features in the app. If you configure such an override link, it is recommended to include a link to the Crunch feature blog on your own “see more” landing page.
 
 Feed items are populated using the front matter following these conventions:
 
@@ -43,7 +41,7 @@ If there is a feature announcement blog post you want to exclude from in-app ann
 We want to show different announcement feeds to different users. To do this, we define audience scope limiters as boolean front matter variables. The default for all is `false`, meaning do not restrict showing the post. Currently used variables are:
 
 * `labs_only`: if `true`, only show to labs users
-* `pinned`: if `true`, all pinned items are sorted by date ahead of all configured feeds. If too many pinned items appear, timely (non-pinned) notifications may not be shown to users. It is advised not to pin more than one item at a time.
+* `pinned`: if `true`, all pinned items are sorted by date ahead of all configured feeds. If too many pinned items appear, timely (non-pinned) notifications may not be shown to users. **It is advised not to pin more than one item at a time.**
 
 Note that this will not affect what is shown on the feature blog: all posts will appear there. The blog website does not know who is logged into the web app or what role they may have there. These flags only govern who is shown what announcements in the app.
 
@@ -75,6 +73,6 @@ pinned = true
 +++
 ```
 
-To test locally, use `hugo serve` to preview before pushing to the `src` branch. Travis will do the rest. A `dev` travis flow and output target is not configured for this site.
+To test locally, use `hugo serve --buildDrafts` to preview locally before pushing to the `src` branch. Travis will do the rest. A `dev` travis flow and output target is not configured for this site.
 
 You may revise `date` to be more contemporary if you update a post, but it isn't strictly necessary; just delete the publishdate on `src` and Travis will update it with the new publishdate. 
