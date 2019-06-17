@@ -1,5 +1,6 @@
 +++
 date = "2019-06-14"
+publishdate = "2019-06-17T14:58:25+0000"
 title = "Low Base Size Warning Release"
 description = "When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text. Z-score will remain in color."
 weight = 20
