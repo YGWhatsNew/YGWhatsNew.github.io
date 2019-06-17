@@ -5,7 +5,7 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2019-06-17T15:22:01+00:00</lastBuildDate>
+    <lastBuildDate>2019-06-17T15:23:22+00:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
     
@@ -33,7 +33,7 @@
       <guid>//profiles-help.yougov.com/complete-cases/</guid>
       <labsOnly>false</labsOnly>
       <noProfiles>false</noProfiles>
-      <pinned>true</pinned>
+      <pinned>false</pinned>
       <description>Complete Cases Checkbox for Custom Audiences</description>
     </item>
     
