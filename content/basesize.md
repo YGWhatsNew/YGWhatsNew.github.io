@@ -16,11 +16,11 @@ The Z-score column will remain in color showing any statistically significant di
 
 The color change is to ensure you are aware of any low base sizes which could impact any insights taken from the data.
 
-## Profiles View
+
 {{< figure src="images/Image1_ProfilesView.png" class="img-fluid">}}
 
 
-## Browse View
+
 {{< figure src="images/Image2_BrowseView.png" class="img-fluid">}}
 
 
