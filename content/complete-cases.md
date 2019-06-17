@@ -7,7 +7,6 @@ weight = 20
 tags = ["filters", "population size"]
 categories = ["feature"]
 images = ["https://crunch.io/img/logo-1200x630.png"]
-pinned = true
 +++
 
 We are pleased to announce a new feature to the audience building area (filter builder) of the Profiles application: 
