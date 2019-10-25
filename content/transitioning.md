@@ -16,7 +16,7 @@ From October onwards, when we need to replace a legacy variable with a new varia
 **If existing Filters, Favourites or My Variables contain a legacy variable please ensure you replace that variable with the new variable. For some variables, it will take a little time for the coverage on the new variable to build up to the level of the legacy variable, and in these cases it is possible to continue to use the legacy variable while this happens.** 
 
 To make the switch from legacy variables to new variables as easy as possible, all legacy variables are clearly labelled ‘Transitioning’ or ‘transitional’. See below. 
-{{< figure src="images/Transition1.png" class="img-fluid">}}
+{{< figure src="images/Transition5.PNG" class="img-fluid">}}
 {{< figure src="images/Transition2.PNG" class="img-fluid">}}
 
 A summary of all legacy variables can be found within the ‘Transitioning’ folder in the main Profiles taxonomy (apart from Attitude variables in GB, USA and Germany). See below.
