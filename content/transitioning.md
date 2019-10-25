@@ -1,4 +1,12 @@
-+++ date = "2019-10-25" publishdate = "2019-10-25T12:51:49+0000" title = "Introduction of ‘Transitioning’ variable folder(s)" description = "When new variables replace legacy variables, legacy variables will now be moved to a ‘Transitioning’ folder. Click here to learn more.  " weight = 20 tags = [] categories = ["feature"] images = ["https://crunch.io/img/logo-1200x630.png"] +++
++++ 
+date = "2019-10-25"
+publishdate = "2019-10-25T12:51:49+0000" 
+title = "Introduction of ‘Transitioning’ variable folder(s)" 
+description = "When new variables replace legacy variables, legacy variables will now be moved to a ‘Transitioning’ folder. Click here to learn more.  " 
+weight = 20 tags = []
+categories = ["feature"] 
+images = ["https://crunch.io/img/logo-1200x630.png"] 
++++
 
 When new variables replace legacy variables, legacy variables will now be moved to a ‘Transitioning’ folder. 
 
