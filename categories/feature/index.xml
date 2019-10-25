@@ -5,9 +5,23 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2019-09-18T22:04:53+00:00</lastBuildDate>
+    <lastBuildDate>2019-10-25T17:44:50+00:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Introduction of ‘Transitioning’ variable folder(s)</title>
+      <link>//profiles-help.yougov.com/transitioning/</link>
+      <pubDate>2019-10-25T17:41:16+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/transitioning/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>When new variables replace legacy variables, legacy variables will now be moved to a ‘Transitioning’ folder. Click here to learn more.  </description>
+    </item>
     
     
     
