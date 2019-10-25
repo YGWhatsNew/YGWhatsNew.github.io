@@ -1,5 +1,6 @@
 +++ 
-date = "2019-10-25" 
+date = "2019-10-25"
+publishdate = "2019-10-25T17:41:16+0000" 
 title = "Introduction of ‘Transitioning’ variable folder(s)" 
 description = "When new variables replace legacy variables, legacy variables will now be moved to a ‘Transitioning’ folder. Click here to learn more.  " 
 weight = 20 
