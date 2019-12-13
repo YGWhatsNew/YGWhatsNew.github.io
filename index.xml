@@ -5,7 +5,7 @@
     <description>Recent content in Feature Announcements on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2019-12-13T18:21:27+00:00</lastBuildDate>
+    <lastBuildDate>2019-12-13T18:24:20+00:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,20 +31,6 @@
       <pubDate>2019-09-18T21:51:49+00:00</pubDate>
       
       <guid>//profiles-help.yougov.com/population/</guid>
-      <labsOnly>false</labsOnly>
-      <noProfiles>false</noProfiles>
-      <pinned>false</pinned>
-      <description>Population estimate calculations now use the complete cases base size for all Filters.</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Population Estimate Calculation Update</title>
-      <link>//profiles-help.yougov.com/interaction/</link>
-      <pubDate>2019-09-18T21:51:49+00:00</pubDate>
-      
-      <guid>//profiles-help.yougov.com/interaction/</guid>
       <labsOnly>false</labsOnly>
       <noProfiles>false</noProfiles>
       <pinned>false</pinned>
