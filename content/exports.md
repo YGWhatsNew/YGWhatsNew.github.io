@@ -1,5 +1,6 @@
 +++ 
-date = "2020-05-04"  
+date = "2020-05-04"
+publishdate = "2020-05-04T20:03:03+0000"  
 title = "Customise your tables and graphs for export" 
 description = "Hide rows/columns, reorder rows/columns and edit labels. Click here to learn more." 
 weight = 20 
