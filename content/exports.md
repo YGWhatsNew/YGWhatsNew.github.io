@@ -3,10 +3,11 @@
 Users can now customise tables and graphs for export by hiding rows/columns, reordering rows/columns and editing labels. 
 
 The ability to customise saved graphs already exists, but now you can make those same edits to the rows and columns of saved tables, for export from the Tables and Graphs mode. More specifically, you can now...
-  1.	Hide any rows and/or columns of a table, leaving only those you want in your export. Simply uncheck the box next to the row/column        to hide it.
-  2.	Reorder the rows/columns of a table, just by dragging them into their new order.
-  3.	Rename any row/column just by typing into the name box. Ideal when labels are too long or contain unwanted content.
-      Together, these allow you to turn this...
+    1.	Hide any rows and/or columns of a table, leaving only those you want in your export. Simply uncheck the box next to the                 row/column to hide it.
+    2.	Reorder the rows/columns of a table, just by dragging them into their new order.
+    3.	Rename any row/column just by typing into the name box. Ideal when labels are too long or contain unwanted content.
+      
+Together, these allow you to turn this...
       
 {{< figure src="images/export1.jpg" class="img-fluid">}}
 
