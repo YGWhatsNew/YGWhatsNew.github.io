@@ -1,24 +1,24 @@
 +++ date = "2020-05-04" publishdate = "2020-05-05T10:51:49+0000" title = "Customise your tables and graphs for export" description = "Hide rows/columns, reorder rows/columns and edit labels. Click here to learn more." weight = 20 tags = [] categories = ["feature"] images = ["https://crunch.io/img/logo-1200x630.png"] +++
 
-In the YouGov Profiles tool there are now 3 ways you can construct a new variable using our variable builder located at the bottom of the variable list. {{< figure src="images/Interaction2.png" class="img-fluid">}}
+Users can now customise tables and graphs for export by hiding rows/columns, reordering rows/columns and editing labels. 
 
-In the “Combine Categories” section, you can recode a variable by collapsing options together. For example, if you wanted to create a custom variable of respondents who owned “dogs or cats” you could combine these two “pet ownership” response options into a single response option.
-In the “Categorical Variable” section you can create a new categorical variable for you to analyze by combining multiple variables using logical conditions. This section would be ideal if you wanted to create a custom segmentation with multiple custom-defined categories.
-Categorical variables are defined as variables in which categories are mutually exclusive and exhaustive — they sum to 100% and every respondent is allocated to one and only one category.
+The ability to customise saved graphs already exists, but now you can make those same edits to the rows and columns of saved tables, for export from the Tables and Graphs mode. More specifically, you can now...
+  1.	Hide any rows and/or columns of a table, leaving only those you want in your export. Simply uncheck the box next to the row/column        to hide it.
+  2.	Reorder the rows/columns of a table, just by dragging them into their new order.
+  3.	Rename any row/column just by typing into the name box. Ideal when labels are too long or contain unwanted content.
+      Together, these allow you to turn this...
+      
+{{< figure src="images/export1.jpg" class="img-fluid">}}
 
-Now we have introduced a new way to build a variable in YouGov Profiles. To look in detail at your data, you sometimes need to create a variable that is the interaction of two categorical variables. You want to know not just how results differ between age groups or gender, but by age × gender. The Profiles tool lets you do this in just a few clicks by selecting the variables to interact — give the result a name (or accept the default of ‘x by y’) and you are set.
-{{< figure src="images/Interaction1.png" class="img-fluid">}}
+Into this...
 
-To get started, click + then New Variable at the bottom of the variable list, and select “Interaction.”
+{{< figure src="images/export2.jpg" class="img-fluid">}}
 
-{{< figure src="images/Interaction3.png" class="img-fluid">}}
+All users can access this new functionality via the "edit" link shown upon hover of each slide saved to the deck. 
 
-{{< figure src="images/Interaction4.png" class="img-fluid">}}
+{{< figure src="images/export3.png" class="img-fluid">}}
 
-Then select two input variables from the variable list and give it a name. Click save and then you are done. The new interaction should appear in your “My Variables” list.
+{{< figure src="images/export4.jpg" class="img-fluid">}}
 
-{{< figure src="images/Interaction5.png" class="img-fluid">}}
-
-Interactions can only be made with categorical variables. In an upcoming release you will be able to combine categories within the Interaction builder but that feature is not currently supported.
 
 If you have any questions please consult your client services representative.
