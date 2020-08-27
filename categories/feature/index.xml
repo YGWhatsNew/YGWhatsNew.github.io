@@ -5,9 +5,23 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2020-08-27T19:08:40+00:00</lastBuildDate>
+    <lastBuildDate>2020-08-27T21:02:11+00:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title> Removing Likes from Profiles </title>
+      <link>//profiles-help.yougov.com/likes/</link>
+      <pubDate>2020-08-27T00:00:00+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/likes/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description> Likes data will be removed from YouGov Profiles in our US and UK datasets on **September 6th, 2020**</description>
+    </item>
     
     
     
