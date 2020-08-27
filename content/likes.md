@@ -1,6 +1,6 @@
 +++
 date = "2020-08-27"
-publishdate = "2020-08-27T20:00:00+0000"
+publishdate = "2020-08-27T14:00:00+0000"
 title = " Removing Likes from Profiles "
 description = " Likes data will be removed from YouGov Profiles in our US and UK datasets on **September 6th, 2020**"
 weight = 20
