@@ -28,4 +28,4 @@ Removing Likes from Profiles will:
 
 If you have any queries relating to these changes, please do not hesitate to contact your YouGov Client Service Representative. 
 
-See the FAQs [/images/YG%20Profiles%20-%20Removal%20of%20Likes.pdf"](here) for more detailed information.
+See the FAQs [here](/images/YG%20Profiles%20-%20Removal%20of%20Likes.pdf") for more detailed information.
