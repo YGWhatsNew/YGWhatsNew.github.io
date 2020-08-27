@@ -16,7 +16,7 @@ YouGov Likes data was our original source of data for identifying people who lik
 **When is this change taking effect?** 
 - The last dataset with Likes data included in YouGov Profiles will be published on August 30th, 2020. 
 - The first dataset without Likes will be published on September 6th, 2020.
-- The Likes entities that have been used by any client over the past 12 months have been moved to YouGov Ratings, and will be published in this week’s (August 16th) dataset to ensure a smooth transition to start using the alternative source of affinity data.
+- The Likes entities that have been used by any client over the past 12 months have been moved to YouGov Ratings, and will be published in the August 16th dataset to ensure a smooth transition to start using the alternative source of affinity data.
 - Historical Likes data will still exist in previous datasets.
 
 **Why are we doing this and what are the benefits?**
@@ -28,4 +28,4 @@ Removing Likes from Profiles will:
 
 If you have any queries relating to these changes, please do not hesitate to contact your YouGov Client Service Representative. 
 
-See the FAQs <a href="/images/YG%20Profiles%20-%20Removal%20of%20Likes.pdf" target="blank">here</a> for more detailed information.
+See the FAQs [/images/YG%20Profiles%20-%20Removal%20of%20Likes.pdf"](here) for more detailed information.
