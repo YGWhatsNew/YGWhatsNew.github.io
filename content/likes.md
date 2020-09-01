@@ -20,6 +20,7 @@ YouGov Likes data was our original source of data for identifying people who lik
 - Historical Likes data will still exist in previous datasets.
 
 **Why are we doing this and what are the benefits?**
+
 Removing Likes from Profiles will:
 - Allow datasets to be available earlier in the week
 - Create more space for additional, new data in the YouGov Profiles
