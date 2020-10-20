@@ -1,6 +1,6 @@
 +++
 date = "2020-10-20"
-publishdate = "2020-10-21T00:00:00+0000"
+publishdate = "2020-10-20T00:00:00+0000"
 title = "Creating multitables using filters"
 description = " Users can now use filters and variables to define columns in their multitables "
 weight = 20
@@ -17,7 +17,7 @@ There is a new way to create multitables. Users can now use combinations of vari
 
 To add a filter column to a multitable, use the “Select a filter” option to select the filter group that you want (screenshot below) and then that filter will become a column in your multitable. 
 
-{{< figure src="images/Multitables1.png" class="img-fluid">}}
+{{< figure src="images/Multitables2.png" class="img-fluid">}}
 
 **Why are we doing this?**
 
