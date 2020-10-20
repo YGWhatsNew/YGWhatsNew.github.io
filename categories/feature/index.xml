@@ -5,9 +5,23 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2020-10-20T18:07:01+00:00</lastBuildDate>
+    <lastBuildDate>2020-10-20T18:08:24+00:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Creating multitables using filters</title>
+      <link>//profiles-help.yougov.com/multitables/</link>
+      <pubDate>2020-10-20T00:00:00+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/multitables/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description> Users can now use filters and variables to define columns in their multitables </description>
+    </item>
     
     
     
