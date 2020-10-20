@@ -1,5 +1,6 @@
 +++
 date = "2020-10-20"
+publishdate = "2020-10-20T18:27:12+0000"
 title = "Creating multitables using filters"
 description = " Users can now use filters and variables to define columns in their multitables "
 weight = 20
