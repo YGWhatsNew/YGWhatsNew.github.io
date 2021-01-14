@@ -5,9 +5,23 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2020-12-10T21:28:22+00:00</lastBuildDate>
+    <lastBuildDate>2021-01-14T20:16:31+00:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>New Profiles Taxonomy</title>
+      <link>//profiles-help.yougov.com/newtaxonomy/</link>
+      <pubDate>2021-01-14T20:11:05+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/newtaxonomy/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description> Users can now view the new Profiles taxonomy in all markets</description>
+    </item>
     
     
     
