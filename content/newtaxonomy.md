@@ -1,5 +1,6 @@
 +++
 date = "2021-01-14"
+publishdate = "2021-01-14T20:11:05+0000"
 title = "New Profiles Taxonomy"
 description = " Users can now view the new Profiles taxonomy in all markets"
 weight = 20
