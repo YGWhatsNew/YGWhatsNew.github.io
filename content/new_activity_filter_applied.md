@@ -13,7 +13,7 @@ As we have been growing our panel consistently over the years (we’ve almost do
 
 Moving forward there will be an additional ‘activity’ quota that panellists must meet before their data is included in Profiles, so we will be moving away from including our active panellists to including our active and engaged panellists.
 
-This will be implemented this week, and the change will be in effect from the 2021-02-21 dataset.
+**This will be implemented this week, and the change will be in effect from the 2021-02-21 dataset.**
 
 ## **The benefits**
 
