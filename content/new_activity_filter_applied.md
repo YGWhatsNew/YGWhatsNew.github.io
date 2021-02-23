@@ -16,7 +16,7 @@ Moving forward there will be an additional ‘activity’ quota that panellists 
 
 **This will be implemented this week, and the change will be in effect from the 2021-02-21 dataset.**
 
-**## The benefits**
+## **The benefits**
 
  
 
@@ -32,7 +32,7 @@ While there will be a decrease in total panel size in Profiles (the new panel si
 
  
 
-**## Why are we doing this?**
+## **Why are we doing this?**
 
 
 We need to maintain a healthy panel to meet the business and client needs for all products and services. In order to maintain this, we go through recruitment drives particularly for harder to reach audiences – e.g., 18-24 year olds.  
