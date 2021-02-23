@@ -1,5 +1,6 @@
 +++
 date = "2021-02-23"
+publishdate = "2021-02-23T21:10:08+0000"
 title = "US only: new activity filter applied to Profiles respondents"
 description = "There's a new activity filter applied to Profiles respondents to improve the usability of data"
 weight = 20
