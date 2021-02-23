@@ -2,7 +2,7 @@
 date = "2021-02-23"
 publishdate = "2021-02-23T21:10:08+0000"
 title = "US only: new activity filter applied to Profiles respondents"
-description = "There's a new activity filter applied to Profiles respondents to improve the usability of data"
+description = "Moving forward there will be an additional ‘activity’ quota that panellists must meet before their data is included in Profiles."
 weight = 20
 tags = []
 categories = ["feature"]
