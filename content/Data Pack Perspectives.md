@@ -1,6 +1,5 @@
 +++
 date = "2021-06-28"
-publishdate = "2021-06-028T01:10:08+0000"
 title = "US only: YouGov Perspectives Data Pack"
 description = "The new YouGov Perspectives Data Pack puts YouGovs very own segmentation into the spotlight. It is released as a set of pre-made Profiles decks available to all users of the Profiles and Profiles+ US datasets."
 weight = 20
