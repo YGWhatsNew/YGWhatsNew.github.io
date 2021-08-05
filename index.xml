@@ -5,9 +5,23 @@
     <description>Recent content in Feature Announcements on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2021-07-01T21:26:36-04:00</lastBuildDate>
+    <lastBuildDate>2021-08-05T07:11:55-04:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>New Market Expansion in Profiles</title>
+      <link>//profiles-help.yougov.com/new-markets/</link>
+      <pubDate>2021-08-05T01:10:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/new-markets/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Profiles is now available in 15 additional markets</description>
+    </item>
     
     
     
