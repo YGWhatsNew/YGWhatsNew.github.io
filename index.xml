@@ -5,9 +5,23 @@
     <description>Recent content in Feature Announcements on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2021-08-05T07:11:55-04:00</lastBuildDate>
+    <lastBuildDate>2021-10-11T09:37:19-04:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>US only: Media Consumption Dashboard</title>
+      <link>//profiles-help.yougov.com/us-media-consumption-dashboard/</link>
+      <pubDate>2021-10-11T01:01:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/us-media-consumption-dashboard/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>The new Media Consumption Profiles Dashbaord looks into how the US population consumes media. It is released as the first Profiles dashboard available to all users of the US datasets.</description>
+    </item>
     
     
     
