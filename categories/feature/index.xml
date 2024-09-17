@@ -1,0 +1,238 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feature on Modern survey data analysis</title>
+    <link>//profiles-help.yougov.com/categories/feature/</link>
+    <description>Recent content in feature on Modern survey data analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>2024-09-17T14:34:23-04:00</lastBuildDate>
+    
+        <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Activate an Audience</title>
+      <link>//profiles-help.yougov.com/activate-audience/</link>
+      <pubDate>2024-09-16T14:58:25+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/activate-audience/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>You can now build and activate an audience seamlessly from within Profiles!</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>US only: Retail Data Pack</title>
+      <link>//profiles-help.yougov.com/us-retail-data-pack/</link>
+      <pubDate>2021-11-03T11:10:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/us-retail-data-pack/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>The new Retail Data Pack looks into the retail journey of the US population. It is released as a set of pre-made Profiles decks available to all users of the Profiles and Profiles+ US datasets.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>US only: Media Consumption Dashboard</title>
+      <link>//profiles-help.yougov.com/us-media-consumption-dashboard/</link>
+      <pubDate>2021-10-11T01:01:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/us-media-consumption-dashboard/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>The new Media Consumption Profiles Dashbaord looks into how the US population consumes media. It is released as the first Profiles dashboard available to all users of the US datasets.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>New Market Expansion in Profiles</title>
+      <link>//profiles-help.yougov.com/new-markets/</link>
+      <pubDate>2021-08-05T01:10:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/new-markets/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Profiles is now available in 15 additional markets</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>US only: YouGov Perspectives Data Pack</title>
+      <link>//profiles-help.yougov.com/data-pack-perspectives/</link>
+      <pubDate>2021-06-28T00:00:00+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/data-pack-perspectives/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>The new YouGov Perspectives Data Pack puts YouGovs very own segmentation into the spotlight. It is released as a set of pre-made Profiles decks available to all users of the Profiles and Profiles+ US datasets.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>US only: Media Consumption Data Pack</title>
+      <link>//profiles-help.yougov.com/data-pack-media-consumption/</link>
+      <pubDate>2021-05-05T21:10:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/data-pack-media-consumption/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>The new Media Consumption Data Pack looks into how the US population consumes media. It is released as a set of pre-made Profiles decks available to all users of the Profiles+ US datasets.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>US only: new activity filter applied to Profiles respondents</title>
+      <link>//profiles-help.yougov.com/new_activity_filter_applied/</link>
+      <pubDate>2021-02-23T21:10:08+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/new_activity_filter_applied/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Moving forward there will be an additional ‘activity’ quota that panellists must meet before their data is included in Profiles.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>New Profiles Taxonomy</title>
+      <link>//profiles-help.yougov.com/newtaxonomy/</link>
+      <pubDate>2021-01-14T20:11:05+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/newtaxonomy/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description> Users can now view the new Profiles taxonomy in all markets</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Creating multitables using filters</title>
+      <link>//profiles-help.yougov.com/multitables/</link>
+      <pubDate>2020-10-20T18:27:12+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/multitables/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description> Users can now use filters and variables to define columns in their multitables </description>
+    </item>
+    
+    
+    
+    <item>
+      <title> Removing Likes from Profiles </title>
+      <link>//profiles-help.yougov.com/likes/</link>
+      <pubDate>2020-08-27T00:00:00+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/likes/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description> Likes data will be removed from YouGov Profiles in our US and UK datasets on September 6th, 2020</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Customise your tables and graphs for export</title>
+      <link>//profiles-help.yougov.com/exports/</link>
+      <pubDate>2020-05-20T20:03:03+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/exports/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Hide rows/columns, reorder rows/columns and edit labels. Click here to learn more.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Building custom variables with the interactions of two existing variables</title>
+      <link>//profiles-help.yougov.com/interaction/</link>
+      <pubDate>2019-12-13T10:51:49+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/interaction/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Cross one variable by another with the new Interaction variable builder. Click here to learn more</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Introduction of ‘Transitioning’ variable folder(s)</title>
+      <link>//profiles-help.yougov.com/transitioning/</link>
+      <pubDate>2019-10-25T17:41:16+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/transitioning/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>When new variables replace legacy variables, legacy variables will now be moved to a ‘Transitioning’ folder. Click here to learn more.  </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Population Estimate Calculation Update</title>
+      <link>//profiles-help.yougov.com/population/</link>
+      <pubDate>2019-09-18T21:51:49+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/population/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Population estimate calculations now use the complete cases base size for all Filters.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Low Base Size Warning Release</title>
+      <link>//profiles-help.yougov.com/basesize/</link>
+      <pubDate>2019-06-17T14:58:25+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/basesize/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>When analysing samples below 100, variables / data-bars will now appear grey rather than the usual blue data-bars and black text. Z-score will remain in color.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Complete Cases Release</title>
+      <link>//profiles-help.yougov.com/complete-cases/</link>
+      <pubDate>2019-05-13T17:36:33+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/complete-cases/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Complete Cases Checkbox for Custom Audiences</description>
+    </item>
+    
+    
+  </channel>
+</rss>
