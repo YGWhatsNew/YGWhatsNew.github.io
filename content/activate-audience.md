@@ -2,7 +2,7 @@
 date = "2024-09-16"
 publishdate = "2024-09-16T14:58:25+0000"
 title = "Activate an Audience"
-description = "You can now build and activate an audience seamlessly from within Profiles! Click here to learn more."
+description = "You can now build and activate an audience seamlessly from within Profiles!"
 weight = 20
 tags = []
 categories = ["feature"]
