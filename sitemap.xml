@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//profiles-help.yougov.com/refresh-nov-2024/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//profiles-help.yougov.com/activate-audience/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,10 +54,10 @@
     <lastmod>2019-04-02T23:20:47-04:00</lastmod>
   </url><url>
     <loc>//profiles-help.yougov.com/categories/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//profiles-help.yougov.com/categories/feature/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//profiles-help.yougov.com/tags/filters/</loc>
     <lastmod>2019-04-02T23:20:47-04:00</lastmod>
@@ -67,8 +70,5 @@
   </url><url>
     <loc>//profiles-help.yougov.com/</loc>
     <lastmod>2017-07-18T14:08:35+02:00</lastmod>
-  </url><url>
-    <loc>//profiles-help.yougov.com/testythebesty/</loc>
-    <priority>0</priority>
   </url>
 </urlset>
