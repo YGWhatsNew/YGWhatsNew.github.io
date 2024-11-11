@@ -1,6 +1,6 @@
 +++
 date = "2024-11-12"
-publishdate = "2024-11-11T00:58:25+0000"
+publishdate = "2024-11-12T00:58:25+0000"
 title = "Updated Profiles UI"
 description = "An improved Profiles experience"
 news_description = "Profiles has had an upgrade! Learn more here."
