@@ -5,7 +5,7 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2024-10-31T09:31:18-04:00</lastBuildDate>
+    <lastBuildDate>2024-11-11T15:53:54-05:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +14,13 @@
     <item>
       <title>Updated Profiles UI</title>
       <link>//profiles-help.yougov.com/refresh-nov-2024/</link>
-      <pubDate>2024-10-31T00:58:25+00:00</pubDate>
+      <pubDate>2024-11-11T00:58:25+00:00</pubDate>
       
       <guid>//profiles-help.yougov.com/refresh-nov-2024/</guid>
-      <labsOnly>true</labsOnly>
+      <labsOnly>false</labsOnly>
       <noProfiles>false</noProfiles>
       <pinned>false</pinned>
-      <description>Early access to the new Profiles experience! Click here to read more.</description>
+      <description>Profiles has had an upgrade! Learn more here.</description>
     </item>
     
     
