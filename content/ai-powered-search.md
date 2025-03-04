@@ -1,7 +1,7 @@
 +++
 date = "2025-03-04T11:40:13Z"
 publishdate = "2025-03-04T11:40:13Z"
-title = "AI Powered Search"
+title = "AI-Powered Search"
 description = "We’ve introduced AI-powered search, allowing you to describe your ideal audience in natural language."
 news_description = "We’ve introduced AI-powered search, allowing you to describe your ideal audience in natural language. Click here to learn more here."
 weight = 20
