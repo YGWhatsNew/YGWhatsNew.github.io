@@ -5,16 +5,30 @@
     <description>Recent content in Feature Announcements on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2024-11-11T15:53:54-05:00</lastBuildDate>
+    <lastBuildDate>2025-03-04T16:35:58+02:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
+      <title>AI-Powered Search</title>
+      <link>//profiles-help.yougov.com/ai-powered-search/</link>
+      <pubDate>2025-03-04T11:40:13+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/ai-powered-search/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>We’ve introduced AI-powered search, allowing you to describe your ideal audience in natural language. Click here to learn more here.</description>
+    </item>
+    
+    
+    
+    <item>
       <title>Updated Profiles UI</title>
       <link>//profiles-help.yougov.com/refresh-nov-2024/</link>
-      <pubDate>2024-11-11T00:58:25+00:00</pubDate>
+      <pubDate>2024-11-12T00:58:25+00:00</pubDate>
       
       <guid>//profiles-help.yougov.com/refresh-nov-2024/</guid>
       <labsOnly>false</labsOnly>
@@ -35,7 +49,9 @@
       <noProfiles>false</noProfiles>
       <pinned>false</pinned>
       <description>You can now build and activate an audience seamlessly from within Profiles!</description>
-    </item>    
+    </item>
+    
+    
     
   </channel>
 </rss>
