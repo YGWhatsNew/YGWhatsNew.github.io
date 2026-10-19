@@ -5,16 +5,30 @@
     <description>Recent content in Feature Announcements on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2026-03-04T12:34:45-05:00</lastBuildDate>
+    <lastBuildDate>2026-10-19T16:00:08-05:00</lastBuildDate>
     
         <atom:link href="//profiles-help.yougov.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
+      <title>A new unified analysis experience</title>
+      <link>//profiles-help.yougov.com/new-analyze-mode/</link>
+      <pubDate>2026-10-18T11:28:19+00:00</pubDate>
+      
+      <guid>//profiles-help.yougov.com/new-analyze-mode/</guid>
+      <labsOnly>true</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>false</pinned>
+      <description>Introducing Analyze mode, which brings Tables&amp;Graphs and Multitables functionality together for a more streamlined and flexible workflow.</description>
+    </item>
+    
+    
+    
+    <item>
       <title>A new way to explore your data</title>
       <link>//profiles-help.yougov.com/new-explore-mode/</link>
-      <pubDate>2026-03-04T11:28:19+00:00</pubDate>
+      <pubDate>2026-02-18T11:28:19+00:00</pubDate>
       
       <guid>//profiles-help.yougov.com/new-explore-mode/</guid>
       <labsOnly>true</labsOnly>
@@ -36,36 +50,6 @@
       <pinned>false</pinned>
       <description>We’ve introduced AI-powered search, allowing you to describe your ideal audience in natural language. Click here to learn more here.</description>
     </item>
-    
-    
-    
-    <item>
-      <title>Updated Profiles UI</title>
-      <link>//profiles-help.yougov.com/refresh-nov-2024/</link>
-      <pubDate>2024-11-12T00:58:25+00:00</pubDate>
-      
-      <guid>//profiles-help.yougov.com/refresh-nov-2024/</guid>
-      <labsOnly>false</labsOnly>
-      <noProfiles>false</noProfiles>
-      <pinned>false</pinned>
-      <description>Profiles has had an upgrade! Learn more here.</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Activate an Audience</title>
-      <link>//profiles-help.yougov.com/activate-audience/</link>
-      <pubDate>2024-09-16T14:58:25+00:00</pubDate>
-      
-      <guid>//profiles-help.yougov.com/activate-audience/</guid>
-      <labsOnly>false</labsOnly>
-      <noProfiles>false</noProfiles>
-      <pinned>false</pinned>
-      <description>You can now build and activate an audience seamlessly from within Profiles!</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
