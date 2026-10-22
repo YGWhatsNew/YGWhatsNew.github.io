@@ -1,7 +1,7 @@
 +++
 date = "2026-10-18T11:28:19Z"
 publishdate = "2026-10-18T11:28:19Z"
-title = "A new unified analysis experience"
+title = "Introducing Analyze Mode in Crunch"
 description = "Introducing Analyze mode, which brings Tables&Graphs and Multitables functionality together for a more streamlined and flexible workflow."
 news_description = "Introducing Analyze mode, which brings Tables&Graphs and Multitables functionality together for a more streamlined and flexible workflow."
 weight = 20
